@@ -1,5 +1,3 @@
-# Voting-College-Website
-
 # Team Number 27 - IVOTED
 
 ### Project Overview
@@ -154,11 +152,12 @@ Form to change the voter profile
 
 ### Team Members
 List of team member names and email IDs with their contributions.
-|Member Name|Email|Contribution|
+|Member Name|Email
 |-----------|-----|------------|
-|Member 1|hharshvardhanaanand@gmail.com|Backend Architecture|
-|Member 2|richaverma6561@gmail.com|Frontend Designing|
-|Member 3|jinenmodi810@gmail.com|Frontend Designing|
+|Member 1|jinenmodi810@gmail.com
+|Member 2|hharshvardhanaanand@gmail.com
+|Member 3|richaverma6561@gmail.com
+
 
 ### References
 Online tools used - StackOverflow, django.com, bootstrap.com, quora.com
